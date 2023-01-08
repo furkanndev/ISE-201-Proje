@@ -10,8 +10,12 @@ class myHeader extends HTMLElement {
             </button>
             <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                 <div class="navbar-nav">
-                <a class="nav-link" href="c.html">C</a>
                 <a class="nav-link" href="cpp.html">C++</a>
+                <a class="nav-link" href="c.html">C</a>
+                <a class="nav-link" href="python.html">Python</a>
+                <a class="nav-link" href="csharp.html">C#</a>
+                
+                
                     <a class="nav-link" href="contactForm-and-map.html">İletişim</a>
                 </div>
             </div>
