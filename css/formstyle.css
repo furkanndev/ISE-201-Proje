@@ -23,7 +23,7 @@ b{
     font-size: large;
 }
 hr{
-    border:1px solid black;
+    border:1px solid rgb(255, 255, 255);
     width: 50%;
 }
 

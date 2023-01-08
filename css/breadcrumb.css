@@ -5,18 +5,18 @@
 }
 
 .crumb nav ol .breadcrumb-item.active{
-    color: black;
+    color: rgb(255, 255, 255);
 }
 
 
 .crumb nav ol li a {
     text-decoration: none;
-    color: black;
+    color: rgb(255, 255, 255);
 }
 
 .crumb nav ol li{
     color: white;
-    background: #1bb7a1;
+    background: #5d01de;
     padding: 8px;
     border-top-right-radius: 23px;
     border-bottom-right-radius: 23px;
